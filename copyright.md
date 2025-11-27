@@ -1,0 +1,2 @@
+Copyright © 2025 WatchTower. Todos os direitos reservados.
+A redistribuição, modificação, revenda ou uso não autorizado, total ou parcial, deste conteúdo (incluindo código-fonte e recursos dos bots) é estritamente proibida
